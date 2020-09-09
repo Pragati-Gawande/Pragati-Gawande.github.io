@@ -781,7 +781,7 @@ body {
 
 .page-section h2.section-heading {
   font-size: 2.5rem;
-  font-weight: 550
+  font-weight: 550;
   margin-top: 15px;
   padding-bottom: 25px;
   background: -webkit-linear-gradient(#5ee, #936);
